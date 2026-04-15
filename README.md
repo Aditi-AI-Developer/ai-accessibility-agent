@@ -49,8 +49,9 @@ Issue: Image missing alt text
 ```
 ## 📸 Demo
 
+`````
 assets/SampleOutput1.png assets/SampleOutput2.png
-
+`````
 ## 🎯 Goal
 
 To automate accessibility compliance and help developers build inclusive web applications.
