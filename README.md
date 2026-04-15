@@ -47,6 +47,9 @@ Issue: Image missing alt text
 ✅ Suggested Fix:
 <img src="logo.png" alt="Company logo" />
 ```
+## 📸 Demo
+
+assets/SampleOutput1.png assets/SampleOutput2.png
 
 ## 🎯 Goal
 
